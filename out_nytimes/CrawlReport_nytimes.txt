@@ -1,0 +1,39 @@
+Name: Tianyu Zhang
+USC ID: XXXXXXXX
+News site crawled: nytimes
+
+Fetch Statistics
+=================
+# fetches attempted: 9972
+# fetches succeeded: 3529
+# fetches failed or aborted: 6443
+
+Outgoing URLs
+==============
+Total URLs extracted: 616081
+# unique URLs extracted: 41275
+# unique URLs within News Site: 37051
+# unique URLs outside News Site: 4224
+
+Status Codes
+============
+200: 3529
+400: 3
+403: 6333
+404: 18
+599: 89
+
+File Sizes
+==========
+< 1KB: 1
+1KB ~ <10KB: 1
+10KB ~ <100KB: 49
+100KB ~ <1MB: 3005
+>= 1MB: 473
+
+Content Types
+==============
+application/rss+xml: 1
+application/xml: 7
+text/csv: 2
+text/html: 3518
